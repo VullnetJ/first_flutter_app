@@ -1,5 +1,7 @@
 # first_app
 
+# Flutter project is done in December 2020
+
 A new Flutter project.
 
 ## Getting Started
